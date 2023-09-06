@@ -103,16 +103,6 @@
     object-fit: contain;
 }
 
-@media (max-width: 1024px){
-  .trending-drinks{
-    flex-direction: column;
-  }
-  .trending__image{
-    width: 10px;
-    height: 16px;
-  }
-}
-
 /* Arrows */
 .trending__arrow {
     position: absolute;
